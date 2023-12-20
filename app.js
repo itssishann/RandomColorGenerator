@@ -13,4 +13,3 @@ function getRandomColor() {
     let color = `rgb(${red}, ${green}, ${blue})`
     return color;
 }
-console.log(getRandomColor())
